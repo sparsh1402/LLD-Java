@@ -1,4 +1,4 @@
-package org.example.liskovSubstitutionPrinciple;
+package org.lld.liskovSubstitutionPrinciple;
 abstract class Bird {
     String name;
 

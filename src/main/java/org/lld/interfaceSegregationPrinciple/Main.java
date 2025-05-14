@@ -1,4 +1,4 @@
-package org.example.interfaceSegregationPrinciple;
+package org.lld.interfaceSegregationPrinciple;
 interface Printer {
     void print(String document);
 }

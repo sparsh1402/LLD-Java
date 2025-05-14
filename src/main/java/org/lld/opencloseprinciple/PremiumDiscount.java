@@ -1,4 +1,4 @@
-package org.example.opencloseprinciple;
+package org.lld.opencloseprinciple;
 
 public class PremiumDiscount implements DiscountStrategy{
     @Override

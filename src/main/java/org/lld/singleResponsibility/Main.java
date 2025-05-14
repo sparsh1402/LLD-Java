@@ -1,4 +1,4 @@
-package org.example.singleResponsibility;
+package org.lld.singleResponsibility;
 
 class Invoice{
     private String item;

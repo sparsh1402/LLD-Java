@@ -1,4 +1,4 @@
-package org.example.benefitsOfComposition;
+package org.lld.benefitsOfComposition;
 interface notificationService {
     void sendNotification(String message);
 }

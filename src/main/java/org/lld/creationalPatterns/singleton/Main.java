@@ -1,4 +1,4 @@
-package org.example.creationalPatterns.singleton;
+package org.lld.creationalPatterns.singleton;
 class DatabaseConnection{
     private static DatabaseConnection instance;
     private DatabaseConnection(){

@@ -1,4 +1,4 @@
-package org.example.opencloseprinciple;
+package org.lld.opencloseprinciple;
 
 public class Invoice {
     private final double price; //fields immutable if they won't change:
