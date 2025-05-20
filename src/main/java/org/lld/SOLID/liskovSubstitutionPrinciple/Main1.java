@@ -1,4 +1,4 @@
-package org.lld.liskovSubstitutionPrinciple;
+package org.lld.SOLID.liskovSubstitutionPrinciple;
 abstract class Account{
     private double balance;
     public void deposit(double amount){

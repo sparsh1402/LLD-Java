@@ -1,4 +1,4 @@
-package org.lld.singleResponsibility;
+package org.lld.SOLID.singleResponsibility;
 
 class Invoice{
     private String item;

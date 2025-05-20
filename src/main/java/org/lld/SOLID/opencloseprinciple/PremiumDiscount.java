@@ -1,4 +1,4 @@
-package org.lld.opencloseprinciple;
+package org.lld.SOLID.opencloseprinciple;
 
 public class PremiumDiscount implements DiscountStrategy{
     @Override

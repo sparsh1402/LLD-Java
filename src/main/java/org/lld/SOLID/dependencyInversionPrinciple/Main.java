@@ -1,4 +1,4 @@
-package org.lld.dependencyInversionPrinciple;
+package org.lld.SOLID.dependencyInversionPrinciple;
 
 interface Keyboard {
     void type();

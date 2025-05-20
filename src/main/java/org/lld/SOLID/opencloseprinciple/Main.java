@@ -1,4 +1,4 @@
-package org.lld.opencloseprinciple;
+package org.lld.SOLID.opencloseprinciple;
 
 public class Main {
     public static void main(String[] args) {
