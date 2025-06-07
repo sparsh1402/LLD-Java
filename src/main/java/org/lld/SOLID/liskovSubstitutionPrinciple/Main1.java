@@ -9,6 +9,7 @@ interface widrawal{
     void withdraw(double amount);
 }
 class SavingAccount extends Account implements widrawal{
+    @Override
     public void withdraw(double amount){
         System.out.println("Withdrawing $" + amount);
     }
